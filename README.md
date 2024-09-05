@@ -20,20 +20,16 @@ Here are some ideas to get you started:
 ## Technologies That I Know👨🏻‍💻
 
 <p align="left"> 
-
-  
-  
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react" />
-  </a>
-
    <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts" />
-  </a>
-
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode" />
-  </a>
+    <img src="https://skillicons.dev/icons?i=react,vite,angular,ts,nodejs,npm,express,js" />
+    <img src="https://skillicons.dev/icons?i=vscode,php,c,cpp,html,css,bootstrap,materialui" />
+    <img src="https://skillicons.dev/icons?i=py,opencv,tensorflow,flask" />
+    <img src="https://skillicons.dev/icons?i=visualstudio,dotnet,cs,cypress" />
+    <img src="https://skillicons.dev/icons?i=docker,postgres,mysql,mongodb,firebase,java" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,dart,flutter,gradle,postman" />
+    <img src="https://skillicons.dev/icons?i=notion,latex,linux,gcp,git" />
+     
+   </a>
 </p>
 
 
