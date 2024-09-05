@@ -2,20 +2,22 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=75&duration=1400&pause=500&color=FF72FF&background=000000EE&center=true&multiline=true&width=1920&height=384&lines=Hello+there+!;+I'm+Matias Padron+;Welcome+to+my+GitHub+profile" alt="Typing SVG" /></a>
 </h1>
 <br>
-<p><img src="https://raw.githubusercontent.com/vibrantfix/vibrantfix/main/assets/gif/hello.gif" width="60px">
-  I'm Yogesh I'm a final year student pursuing Bachelors's in Computer Science 🎓 . I'm a passionate learner who's always willing to learn and work across technologies. I love to explore new technologies and try to solve real-life problems 🚀. Apart from that I also love to listen music 🎵 and play games🎮. I'm currently into Full stack Web Development 🕸️ and working on python 🐍.
-</p>
+<p>
+  <img src="https://raw.githubusercontent.com/vibrantfix/vibrantfix/main/assets/gif/hello.gif" width="60px">
+  ¡Hola! Soy Matías Padrón, estudiante de Ingeniería de Software en la Universidad de las Fuerzas Armadas ESPE 🎓. Soy una persona responsable y comprometida con los retos diarios, tanto en lo académico como en lo personal. Me apasiona aprender y explorar nuevas tecnologías, especialmente en el ámbito del desarrollo web y la inteligencia artificial 🚀. 
+  Disfruto asumiendo roles de liderazgo en proyectos universitarios, donde mi capacidad de organización, comunicación y trabajo en equipo son clave para lograr resultados eficientes. He trabajado en proyectos enfocados en la detección del déficit de atención en estudiantes y en la creación de modelos de entrenamiento mediante técnicas de machine learning y deep learning.
+  </p>
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/vibrantfix/vibrantfix/main/assets/gif/lain.gif" width="350px" height="250px" />
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40">Talking about Personal Stuffs:
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40"> Un poco más sobre mí:
 
-- 🎓 I am a **student**.
-- 💻 Major is **Computer Science and Technology**.
-- 🌱 I'm currently learning **Web development and Python**. 
-- 🤔 My hobbies are **listen music 🎵 and play games🎮**.
-- 📝 Sometimes I write articles on **[My website](https://vibrantfix.github.io/blog/)**
-- 💬 If you have any questions, **just ask me**.
+- 🎓 Actualmente, estoy cursando el séptimo semestre de **Ingeniería de Software**.
+- 💻 Mis intereses principales son el **desarrollo web (frontend y backend)** y la **inteligencia artificial**.
+- 🌱 Estoy constantemente aprendiendo sobre **nuevas tecnologías emergentes y técnicas de IA**.
+- 🤔 Mis hobbies incluyen **la calistenia** y **running**, que me ayudan a mantenerme enfocado y saludable.
+- 💬 Si tienes alguna pregunta o quieres charlar sobre tecnología, **¡no dudes en contactarme!**
+
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
