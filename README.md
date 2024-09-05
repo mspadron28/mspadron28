@@ -27,7 +27,7 @@ Here are some ideas to get you started:
     <img src="https://skillicons.dev/icons?i=visualstudio,dotnet,cs,cypress" />
     <img src="https://skillicons.dev/icons?i=docker,postgres,mysql,mongodb,firebase,java" />
     <img src="https://skillicons.dev/icons?i=androidstudio,dart,flutter,gradle,postman" />
-    <img src="https://skillicons.dev/icons?i=notion,latex,linux,gcp,git" />
+    <img src="https://skillicons.dev/icons?i=notion,latex,linux,git" />
      
    </a>
 </p>
