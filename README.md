@@ -21,16 +21,25 @@ Here are some ideas to get you started:
 
 <p align="left"> 
    <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,vite,angular,ts,nodejs,npm,express,js" />
-    <img src="https://skillicons.dev/icons?i=vscode,php,c,cpp,html,css,bootstrap,materialui" />
-    <img src="https://skillicons.dev/icons?i=py,opencv,tensorflow,flask" />
-    <img src="https://skillicons.dev/icons?i=visualstudio,dotnet,cs,cypress" />
-    <img src="https://skillicons.dev/icons?i=docker,postgres,mysql,mongodb,firebase,java" />
+    <!-- Imagen 1 -->
+    <img src="https://skillicons.dev/icons?i=react,vite,angular,ts,nodejs" />
+    <!-- Imagen 2 -->
+    <img src="https://skillicons.dev/icons?i=npm,express,js,vscode,php" />
+    <!-- Imagen 3 -->
+    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,bootstrap" />
+    <!-- Imagen 4 -->
+    <img src="https://skillicons.dev/icons?i=materialui,py,opencv,tensorflow,flask" />
+    <!-- Imagen 5 -->
+    <img src="https://skillicons.dev/icons?i=visualstudio,dotnet,cs,cypress,docker" />
+    <!-- Imagen 6 -->
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase,java" />
+    <!-- Imagen 7 -->
     <img src="https://skillicons.dev/icons?i=androidstudio,dart,flutter,gradle,postman" />
+    <!-- Imagen 8 -->
     <img src="https://skillicons.dev/icons?i=notion,latex,linux,git" />
-     
    </a>
 </p>
+
 
 
 ## Connect with me:
