@@ -24,15 +24,15 @@ Here are some ideas to get you started:
   
   
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react&perline=14" />
+    <img src="https://skillicons.dev/icons?i=react" />
   </a>
-  &emsp;
+
    <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts&perline=14" />
+    <img src="https://skillicons.dev/icons?i=ts" />
   </a>
-  &emsp;
-    <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode&perline=14" />
+
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode" />
   </a>
 </p>
 
