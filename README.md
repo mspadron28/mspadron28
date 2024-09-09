@@ -10,7 +10,7 @@
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/vibrantfix/vibrantfix/main/assets/gif/lain.gif" width="350px" height="250px" />
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40"> Un poco más sobre mí:
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40"> About me:
 
 - 🎓 Actualmente, estoy cursando el séptimo semestre de **Ingeniería de Software**.
 - 💻 Mis intereses principales son el **desarrollo web (frontend y backend)** y la **inteligencia artificial**.
