@@ -1,9 +1,10 @@
 <h1 align = "center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=75&duration=1400&pause=500&color=FF72FF&background=000000EE&center=true&multiline=true&width=1920&height=384&lines=Hello+there+!;+I'm+Matias Padron+;Welcome+to+my+GitHub+profile" alt="Typing SVG" /></a>
+<p align="left">
+ <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!&center=true&width=360&height=30">
+</p>
 </h1>
 <br>
 <p>
-  <img src="https://raw.githubusercontent.com/vibrantfix/vibrantfix/main/assets/gif/hello.gif" width="60px">
   ¡Hola! Soy Matías Padrón, estudiante de Ingeniería de Software en la Universidad de las Fuerzas Armadas ESPE 🎓. Soy una persona responsable y comprometida con los retos diarios, tanto en lo académico como en lo personal. Me apasiona aprender y explorar nuevas tecnologías, especialmente en el ámbito del desarrollo web y la inteligencia artificial 🚀. 
   Disfruto asumiendo roles de liderazgo en proyectos universitarios, donde mi capacidad de organización, comunicación y trabajo en equipo son clave para lograr resultados eficientes. He trabajado en proyectos enfocados en la detección del déficit de atención en estudiantes y en la creación de modelos de entrenamiento mediante técnicas de machine learning y deep learning.
   </p>
@@ -12,7 +13,7 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40"> About me:
 
-- 🎓 Actualmente, estoy cursando el séptimo semestre de **Ingeniería de Software**.
+- 🎓 Actualmente, estoy cursando el último semestre de **Ingeniería de Software**.
 - 💻 Mis intereses principales son el **desarrollo web (frontend y backend)** y la **inteligencia artificial**.
 - 🌱 Estoy constantemente aprendiendo sobre **nuevas tecnologías emergentes y técnicas de IA**.
 - 🤔 Mis hobbies incluyen **la calistenia** y **running**, que me ayudan a mantenerme enfocado y saludable.
