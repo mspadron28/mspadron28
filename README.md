@@ -55,7 +55,8 @@ I specialize in building scalable web platforms and robust backend architectures
 ### 🌟 Featured Work
 
 - **[Construpedia](https://construpedia.ai)** - AI-powered knowledge repository for the construction industry.
-- **[Structural AI](https://github.com/mspadron28)** - Automated marketing engine for corporate clients.
+- **[Structural AI](https://structuralads.com/)** - Automated marketing engine for corporate clients.
+- **[Artex Marketplace](https://artex.la/)** - Restructured the online art marketplace by enhancing the frontend with a modern UX/UI
 - **[DIRMOV](https://test-dirmov-ec.vercel.app/)** - Psychometric testing module for military reservists.
 
 ---
@@ -69,7 +70,7 @@ I specialize in building scalable web platforms and robust backend architectures
   <a href="mailto:matiaspadron2@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://matiaspadron.com" target="blank">
+  <a href="https://portfolio-matias-padron.vercel.app/" target="blank">
     <img src="https://img.shields.io/badge/Portfolio-c88a92?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </p>
