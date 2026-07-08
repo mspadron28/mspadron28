@@ -4,21 +4,32 @@
 </div>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Founder+%40+MP+Software+Solutions;Full-Stack+Software+Engineer;Arquitecturas+escalables+%7C+NestJS+%C2%B7+.NET+%C2%B7+Django;Dise%C3%B1o+UX%2FUI+de+Alto+Impacto&center=true&width=600&height=45&color=c88a92&size=22&pause=1000" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Founder+%40+MP+Software+Solutions;Full-Stack+Software+Engineer;Scalable+Architecture+%7C+NestJS+%C2%B7+.NET+%C2%B7+Django;High-Impact+UX%2FUI+Design&center=true&width=600&height=45&color=c88a92&size=22&pause=1000" />
 </h3>
+
+<!-- ═══════════════════════ LANGUAGE SWITCH ═══════════════════════ -->
+<p align="center">
+  <a href="#english">
+    <img src="https://img.shields.io/badge/🇬🇧_ENGLISH-2b1d24?style=for-the-badge" height="35" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="#español">
+    <img src="https://img.shields.io/badge/🇪🇸_ESPAÑOL-c88a92?style=for-the-badge" height="35" />
+  </a>
+</p>
 
 <!-- ═══════════════════════ HOOK / CTA ═══════════════════════ -->
 <p align="center">
   <a href="https://www.linkedin.com/in/matiaspadron28">
-    <img src="https://img.shields.io/badge/LinkedIn-Conectemos-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="50" />
+    <img src="https://img.shields.io/badge/LinkedIn-Let's_connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="50" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.matiaspadron.com/#proyectos">
-    <img src="https://img.shields.io/badge/Portfolio-Ver_mi_trabajo-c88a92?style=for-the-badge&logo=googlechrome&logoColor=white" height="50" />
+    <img src="https://img.shields.io/badge/Portfolio-See_my_work-c88a92?style=for-the-badge&logo=googlechrome&logoColor=white" height="50" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:matiaspadron2@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Hablemos_de_tu_proyecto-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="50" />
+    <img src="https://img.shields.io/badge/Email-Let's_talk_about_your_project-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="50" />
   </a>
 </p>
 
@@ -27,13 +38,142 @@
 </p>
 
 <blockquote align="center">
-  <i>"Construyo tecnología que abre oportunidades donde antes solo existían limitaciones."</i><br>
-  — <b><a href="https://mpsoftwaresolutions.com/">Matías Padrón Software Solutions</a></b>
+  <i>"I build technology that opens up opportunities where only limitations existed before."</i><br>
+  — <b><a href="https://www.matiaspadron.com/">Matías Padrón Software Solutions</a></b>
 </blockquote>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ═══════════════════════ SOBRE MÍ ═══════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════ ENGLISH ═══════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════ -->
+<a name="english"></a>
+
+## 👨🏻‍💻 About Me
+
+I'm a **Software Engineer** and founder of my own development brand, where I've helped **5+ clients** accelerate their business growth through custom technology solutions. I combine solid software architecture with **high-value UX/UI design**, crafting experiences that don't just work — they convert visitors into real clients.
+
+I specialize in building scalable web applications and robust backend architectures that support real commercial operations. I lead projects *end-to-end*, blending strong technical foundations with business vision.
+
+| 💡 Specialty | 🚀 What I deliver |
+|---|---|
+| 🏛️ **Architecture & Backend** | Scalable systems and microservices with **NestJS, .NET, and Django** |
+| 💻 **Modern Frontend** | Conversion-oriented, premium UX/UI apps with **Next.js and React** |
+| 📊 **Databases** | Relational & NoSQL optimization: **PostgreSQL, MySQL, SQL Server, MongoDB** |
+| ☁️ **Cloud & DevOps** | Secure deployments on **AWS and Azure** with Docker, NGINX, and PM2 |
+
+> 🤝 **If you're looking for a developer who understands both deep technology and business impact, let's work together.**
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🌟 Featured Projects — Success Stories
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🌾 Florezzia Export</h3>
+      <p align="center"><a href="https://www.florezziaexport.com/"><img src="https://img.shields.io/badge/🔗_View_Project-c88a92?style=for-the-badge" /></a></p>
+      <p align="center"><b>B2B E-commerce Platform</b></p>
+      <p><i>Efficiency at scale: from the field to the world with 100% automated processes.</i></p>
+      <p>Premium wholesale e-commerce with smart catalog, real-time inventory, and a fortified payment gateway. Built to eliminate manual management and digitize commercial operations.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🍪 Gallepas</h3>
+      <p align="center"><a href="https://www.gallepas.com/"><img src="https://img.shields.io/badge/🔗_View_Project-c88a92?style=for-the-badge" /></a></p>
+      <p align="center"><b>Loyalty System & BI</b></p>
+      <p><i>Smart loyalty: connecting physical packaging to a unique digital experience.</i></p>
+      <p>E-commerce integrated with a dynamic rewards system and a Business Intelligence dashboard that centralizes key metrics for strategic decision-making.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🌿 Ruakh</h3>
+      <p align="center"><a href="https://www.ruakhsuperalimentos.com/"><img src="https://img.shields.io/badge/🔗_View_Project-c88a92?style=for-the-badge" /></a></p>
+      <p align="center"><b>High-Conversion Web App</b></p>
+      <p><i>From intent to action: a premium visual experience that turns visits into orders.</i></p>
+      <p>Wellness web platform with an interactive catalog and optimized order builder that routes sales directly to WhatsApp checkout.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🖼️ Giovanni Antiques</h3>
+      <p align="center"><a href="https://giovanniantiques.com/"><img src="https://img.shields.io/badge/🔗_View_Project-c88a92?style=for-the-badge" /></a></p>
+      <p align="center"><b>Digital Gallery & Custom CMS</b></p>
+      <p><i>Art meets technology: an exclusive digital showcase with smart catalog management.</i></p>
+      <p>High-end e-commerce for antiques and artwork with an immersive experience and an admin panel (CMS) for managing unique pieces.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🥂 The Spritz</h3>
+      <p align="center"><a href="https://spritz-web.vercel.app/"><img src="https://img.shields.io/badge/🔗_View_Project-c88a92?style=for-the-badge" /></a></p>
+      <p align="center"><b>Real-Time Web Platform</b></p>
+      <p><i>Live experiences: connecting physical events with digital interaction.</i></p>
+      <p><b>Live Experience</b> module that lets attendees register via QR, upload photos, and project them in real time during the celebration.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">💼 Your project here?</h3>
+      <p align="center"><a href="https://www.matiaspadron.com/"><img src="https://img.shields.io/badge/🚀_Let's_start_your_project-2b1d24?style=for-the-badge" /></a></p>
+      <p align="center"><b>MP Software Solutions</b></p>
+      <p><i>Custom technology solutions that power real businesses.</i></p>
+      <p>From architecture to deployment: end-to-end development focused on measurable business results.</p>
+    </td>
+  </tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🛠️ Tech Stack & Tools
+
+<div align="center">
+
+### 💻 Frontend
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind&theme=dark" />
+
+### ⚙️ Backend & Databases
+<img src="https://skillicons.dev/icons?i=nestjs,dotnet,django,postgres,mysql,mongodb&theme=dark" />
+
+### ☁️ Cloud & DevOps
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,nginx,git,github&theme=dark" />
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 💼 Impact by the Numbers
+
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="25%">
+      <h1>5+</h1>
+      <sub><b>Clients empowered<br>with custom technology</b></sub>
+    </td>
+    <td align="center" width="25%">
+      <h1>6+</h1>
+      <sub><b>End-to-end projects<br>designed and deployed</b></sub>
+    </td>
+    <td align="center" width="25%">
+      <h1>3</h1>
+      <sub><b>Backend stacks mastered<br>NestJS · .NET · Django</b></sub>
+    </td>
+    <td align="center" width="25%">
+      <h1>100%</h1>
+      <sub><b>Focus on conversion<br>and business outcomes</b></sub>
+    </td>
+  </tr>
+</table>
+
+<div align="right">
+
+[🇪🇸 Ver en Español](#español)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ═══════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════ ESPAÑOL ═══════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════ -->
+<a name="español"></a>
+
 ## 👨🏻‍💻 Sobre Mí
 
 Soy **Ingeniero de Software** y fundador de mi propia marca de desarrollo, donde he ayudado a **más de 5 clientes** a potenciar el crecimiento de sus negocios mediante soluciones tecnológicas a medida. Combino arquitectura de software sólida con **diseño UX/UI de alto valor**, diseñando experiencias que no solo funcionan, sino que convierten visitas en clientes reales.
@@ -51,7 +191,6 @@ Me especializo en construir aplicaciones web escalables y arquitecturas backend 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ═══════════════════════ PROYECTOS ═══════════════════════ -->
 ## 🌟 Proyectos Destacados — Casos de Éxito
 
 <table>
@@ -97,7 +236,7 @@ Me especializo en construir aplicaciones web escalables y arquitecturas backend 
     </td>
     <td width="50%" valign="top">
       <h3 align="center">💼 ¿Tu proyecto aquí?</h3>
-      <p align="center"><a href="https://mpsoftwaresolutions.com/"><img src="https://img.shields.io/badge/🚀_Iniciemos_tu_proyecto-2b1d24?style=for-the-badge" /></a></p>
+      <p align="center"><a href="https://www.matiaspadron.com/"><img src="https://img.shields.io/badge/🚀_Iniciemos_tu_proyecto-2b1d24?style=for-the-badge" /></a></p>
       <p align="center"><b>MP Software Solutions</b></p>
       <p><i>Soluciones tecnológicas a medida que impulsan negocios reales.</i></p>
       <p>Desde la arquitectura hasta el despliegue: desarrollo end-to-end con foco en resultados comerciales medibles.</p>
@@ -107,7 +246,6 @@ Me especializo en construir aplicaciones web escalables y arquitecturas backend 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ═══════════════════════ TECH STACK ═══════════════════════ -->
 ## 🛠️ Tech Stack & Herramientas
 
 <div align="center">
@@ -125,7 +263,6 @@ Me especializo en construir aplicaciones web escalables y arquitecturas backend 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ═══════════════════════ IMPACTO ═══════════════════════ -->
 ## 💼 Impacto en Números
 
 <table align="center" width="100%">
@@ -149,8 +286,14 @@ Me especializo en construir aplicaciones web escalables y arquitecturas backend 
   </tr>
 </table>
 
+<div align="right">
+
+[🇬🇧 View in English](#english)
+
+</div>
+
 <!-- ═══════════════════════ FOOTER ═══════════════════════ -->
-## 📫 Conecta Conmigo
+## 📫 Let's Connect / Conecta Conmigo
 
 <p align="center">
   <a href="https://www.linkedin.com/in/matiaspadron28">
@@ -162,7 +305,7 @@ Me especializo en construir aplicaciones web escalables y arquitecturas backend 
   <a href="https://www.matiaspadron.com/#proyectos">
     <img src="https://img.shields.io/badge/Portfolio-c88a92?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
-  <a href="https://mpsoftwaresolutions.com/">
+  <a href="https://www.matiaspadron.com/">
     <img src="https://img.shields.io/badge/MP_Software_Solutions-2b1d24?style=for-the-badge&logo=rocket&logoColor=c88a92" />
   </a>
 </p>
