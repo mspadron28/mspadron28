@@ -9,19 +9,17 @@
 
 <!-- ═══════════════════════ HOOK / CTA ═══════════════════════ -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/matiaspadron28/">
-    <img src="https://img.shields.io/badge/LinkedIn-Conectemos-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/matiaspadron28">
+    <img src="https://img.shields.io/badge/LinkedIn-Conectemos-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="50" />
   </a>
-  <a href="https://portfolio-matias-padron.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Ver_mi_trabajo-c88a92?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.matiaspadron.com/#proyectos">
+    <img src="https://img.shields.io/badge/Portfolio-Ver_mi_trabajo-c88a92?style=for-the-badge&logo=googlechrome&logoColor=white" height="50" />
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="mailto:matiaspadron2@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Hablemos_de_tu_proyecto-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Hablemos_de_tu_proyecto-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="50" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mspadron28&style=for-the-badge&color=c88a92&label=VISITAS+AL+PERFIL" />
 </p>
 
 <p align="center">
@@ -183,13 +181,13 @@ Me especializo en construir aplicaciones web escalables y arquitecturas backend 
 ## 📫 Conecta Conmigo
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/matiaspadron28/">
+  <a href="https://www.linkedin.com/in/matiaspadron28">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:matiaspadron2@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://portfolio-matias-padron.vercel.app/">
+  <a href="https://www.matiaspadron.com/#proyectos">
     <img src="https://img.shields.io/badge/Portfolio-c88a92?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <a href="https://mpsoftwaresolutions.com/">
