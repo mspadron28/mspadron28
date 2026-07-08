@@ -4,7 +4,7 @@
 </div>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Founder+%40+MP+Software+Solutions;Full-Stack+Software+Engineer;Arquitecturas+escalables+%7C+NestJS+%C2%B7+.NET+%C2%B7+Django;Core+Team+Alumni+%40+Construex&center=true&width=600&height=45&color=c88a92&size=22&pause=1000" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Founder+%40+MP+Software+Solutions;Full-Stack+Software+Engineer;Arquitecturas+escalables+%7C+NestJS+%C2%B7+.NET+%C2%B7+Django;Dise%C3%B1o+UX%2FUI+de+Alto+Impacto&center=true&width=600&height=45&color=c88a92&size=22&pause=1000" />
 </h3>
 
 <!-- ═══════════════════════ HOOK / CTA ═══════════════════════ -->
@@ -36,18 +36,7 @@
 <!-- ═══════════════════════ SOBRE MÍ ═══════════════════════ -->
 ## 👨🏻‍💻 Sobre Mí
 
-```typescript
-const matias = {
-  rol: "Software Engineer & Founder",
-  empresa: "MP Software Solutions",
-  experiencia: "Core Team Alumni @ Construex",
-  clientes: "5+ negocios impulsados con tecnología a medida",
-  enfoque: ["Arquitectura escalable", "Impacto comercial", "Liderazgo end-to-end"],
-  filosofia: "Bases técnicas sólidas + visión de negocio"
-};
-```
-
-Soy **Ingeniero de Software** y fundador de mi propia marca de desarrollo, donde he ayudado a **más de 5 clientes** a potenciar el crecimiento de sus negocios mediante soluciones tecnológicas a medida. Anteriormente, fui miembro del **Core Team en Construex**, colaborando directamente en el crecimiento y escalabilidad de la empresa.
+Soy **Ingeniero de Software** y fundador de mi propia marca de desarrollo, donde he ayudado a **más de 5 clientes** a potenciar el crecimiento de sus negocios mediante soluciones tecnológicas a medida. Combino arquitectura de software sólida con **diseño UX/UI de alto valor**, diseñando experiencias que no solo funcionan, sino que convierten visitas en clientes reales.
 
 Me especializo en construir aplicaciones web escalables y arquitecturas backend robustas que soportan operaciones comerciales reales. Lidero proyectos *end-to-end*, combinando bases técnicas sólidas con visión de negocio.
 
@@ -134,48 +123,31 @@ Me especializo en construir aplicaciones web escalables y arquitecturas backend 
 
 </div>
 
-<details>
-  <summary><b>📋 Ver stack detallado (badges)</b></summary>
-  <br>
-  <div align="center">
-    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-    <br>
-    <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
-    <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-    <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-    <br>
-    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-    <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-    <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
-    <img src="https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white" />
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  </div>
-</details>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ═══════════════════════ MÉTRICAS ═══════════════════════ -->
-## 📊 Métricas GitHub
+<!-- ═══════════════════════ IMPACTO ═══════════════════════ -->
+## 💼 Impacto en Números
 
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mspadron28&show_icons=true&theme=dark&bg_color=0d1117&title_color=c88a92&icon_color=c88a92&text_color=ffffff&border_color=c88a92&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mspadron28&layout=compact&theme=dark&bg_color=0d1117&title_color=c88a92&text_color=ffffff&border_color=c88a92" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mspadron28&theme=dark&background=0d1117&ring=c88a92&fire=c88a92&currStreakLabel=c88a92&border=c88a92" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mspadron28&theme=github-compact&bg_color=0d1117&color=c88a92&line=c88a92&point=ffffff&area=true&hide_border=false&border_color=c88a92" width="95%" />
-</div>
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="25%">
+      <h1>5+</h1>
+      <sub><b>Clientes impulsados<br>con tecnología a medida</b></sub>
+    </td>
+    <td align="center" width="25%">
+      <h1>6+</h1>
+      <sub><b>Proyectos end-to-end<br>diseñados y desplegados</b></sub>
+    </td>
+    <td align="center" width="25%">
+      <h1>3</h1>
+      <sub><b>Stacks backend dominados<br>NestJS · .NET · Django</b></sub>
+    </td>
+    <td align="center" width="25%">
+      <h1>100%</h1>
+      <sub><b>Enfoque en conversión<br>y resultado comercial</b></sub>
+    </td>
+  </tr>
+</table>
 
 <!-- ═══════════════════════ FOOTER ═══════════════════════ -->
 ## 📫 Conecta Conmigo
